@@ -12,3 +12,7 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+## Status
+Was under development but was droped soon after.
+I has some of the features of the actual Tribu but not all of them
